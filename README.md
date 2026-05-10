@@ -8,7 +8,7 @@
 - 📑 [Presentation Deck](https://drive.google.com/file/d/11taqxXzsQSwmwUZ0-RsnyZgDZTZck8YK/view)
 
 ## Project Overview
-From 2020–2023, the company faced challenges in understanding which products, categories, customer segments, and cities were actually driving sales and profitability performance.  
+The company faced challenges in understanding which products, categories, customer segments, and cities were actually driving sales and profitability performance.  
 
 As a **Data Analyst**, I was responsible for analyzing sales and profit data to identify key revenue drivers, seasonal trends, product portfolio performance, and business concentration risks. The insights from this analysis were used to support strategic decisions related to product prioritization, optimization, and evaluation.
 
