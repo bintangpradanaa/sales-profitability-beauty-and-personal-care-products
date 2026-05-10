@@ -27,12 +27,12 @@ As a **Data Analyst**, I was responsible for analyzing sales and profit data to 
 - Bodycare and Fragrance categories contribute relatively weak strategic value, creating risks related to inventory inefficiency, portfolio complexity, and inefficient resource allocation.
 
 ## Recommendations
-- Core Revenue Protection & Optimization (Highest Priority)
+- **Core Revenue Protection & Optimization (Highest Priority)**
   - Strengthen Q4 readiness through early stock preparation, fast-moving SKU prioritization, and higher marketing allocation for high-converting campaigns. During lower-performing Q1 periods, maintain sales through retention strategies such as personalized promotions, bundling, loyalty incentives, and customer reactivation campaigns.
   - Utilize high-performing skincare products as anchor products for cross-selling and bundling strategies to increase exposure, trial, and conversion of lower-performing categories.
   - Maintain Skincare as the primary growth engine while expanding Haircare and Makeup to create a more balanced revenue contribution.
-- Growth Expansion & Revenue Diversification (Second Priority)
+- **Growth Expansion & Revenue Diversification (Second Priority)**
   - Enhance market diversification by increasing expansion into cities outside Surabaya through localized campaigns, reseller partnerships, and targeted customer acquisition strategies.
   - Develop Haircare and Makeup as secondary growth engines through targeted campaigns, cross-category bundling, and pricing strategies tailored to customer purchasing behavior.
-- Portfolio Efficiency & Long-Term Sustainability (Third Priority)
+- **Portfolio Efficiency & Long-Term Sustainability (Third Priority)**
   - Conduct regular reviews of low-performing Bodycare and Fragrance products through repositioning, rebranding, pricing adjustments, or gradual discontinuation to improve overall portfolio efficiency.
