@@ -1,5 +1,9 @@
 # Sales & Profitability Analysis of Beauty & Personal Care Products
 
+<p align="center">
+  <img src="images/beauty-pict.jpg" width="1000"/>
+</p>
+
 ## Resources
 - 📑 [Presentation Deck](https://drive.google.com/file/d/11taqxXzsQSwmwUZ0-RsnyZgDZTZck8YK/view)
 
